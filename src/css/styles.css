@@ -1,0 +1,28 @@
+.cat {
+  display: flex;
+  gap: 0px 30px;
+}
+
+.cat-img {
+  flex: 1;
+  max-width: 50%;
+  height: auto;
+}
+
+.cat-container {
+  flex: 1;
+  max-width: 600px;
+  min-width: 250px;
+}
+
+.breed-select {
+  margin-bottom: 20px;
+}
+
+.breed-select {
+  display: none;
+  margin-bottom: 20px;
+}
+.error {
+  display: none;
+}
